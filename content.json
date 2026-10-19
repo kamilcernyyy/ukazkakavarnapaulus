@@ -1,0 +1,382 @@
+{
+  "site": {
+    "name": "Kavárna Paulus",
+    "url": "https://kavarnapaulus.cz/",
+    "ga_id": "",
+    "instagram_url": "https://www.instagram.com/",
+    "instagram_handle": "@kavarnapaulus",
+    "facebook_url": "https://www.facebook.com/",
+    "mhd_url": "https://idos.cz/olomouc/spojeni/",
+    "walk_url": "https://mapy.com/fnc/v1/route?mapset=outdoor&start=17.2512,49.5939&end=17.3357,49.6337&routeType=foot_hiking"
+  },
+  "seo": {
+    "title": "Kavárna Paulus — Svatý Kopeček, hned vedle baziliky",
+    "description": "Kavárna Paulus přímo u baziliky na Svatém Kopečku u Olomouce. Výběrová káva, ráno upečené croissanty a terasa s výhledem na Hanou. Psi vítáni.",
+    "og_title": "Kavárna Paulus — kavárna na Svatém Kopečku",
+    "og_description": "Výběrová káva a čerstvé pečivo hned vedle baziliky na Svatém Kopečku u Olomouce. Terasa s výhledem, psi vítáni."
+  },
+  "contact": {
+    "street": "Sadové náměstí [č.p.]",
+    "zip": "779 00",
+    "city": "Olomouc – Svatý Kopeček",
+    "phone": "+420 000 000 000",
+    "email": "ahoj@kavarnapaulus.cz"
+  },
+  "hours": [
+    {
+      "label": "Po–Pá",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "opens": "07:30",
+      "closes": "19:00"
+    },
+    {
+      "label": "So–Ne",
+      "days": [
+        0,
+        6
+      ],
+      "opens": "08:30",
+      "closes": "18:00"
+    }
+  ],
+  "amenities": [
+    "Bezbariérový přístup",
+    "Psi vítáni (miska s vodou samozřejmostí)",
+    "Karty i Apple / Google Pay",
+    "Terasa za každého rozumného počasí",
+    "Výhled na celou Hanou"
+  ],
+  "menu": [
+    {
+      "cat": "Káva",
+      "items": [
+        {
+          "name": "Espresso",
+          "price": "55 Kč",
+          "note": "sezónní zrno"
+        },
+        {
+          "name": "Americano",
+          "price": "59 Kč",
+          "note": ""
+        },
+        {
+          "name": "Cappuccino",
+          "price": "69 Kč",
+          "note": ""
+        },
+        {
+          "name": "Flat White",
+          "price": "79 Kč",
+          "note": "dvojité espresso, mikropěna",
+          "best": true
+        },
+        {
+          "name": "Caffè latte",
+          "price": "75 Kč",
+          "note": ""
+        },
+        {
+          "name": "Filtr",
+          "price": "75 Kč",
+          "note": "V60 nebo batch podle dne"
+        }
+      ]
+    },
+    {
+      "cat": "Nealko",
+      "items": [
+        {
+          "name": "Domácí limo",
+          "price": "69 Kč",
+          "note": "podle sezóny",
+          "best": true
+        },
+        {
+          "name": "Sypaný čaj",
+          "price": "59 Kč",
+          "note": ""
+        },
+        {
+          "name": "Horká čokoláda",
+          "price": "75 Kč",
+          "note": ""
+        },
+        {
+          "name": "Fresh pomeranč",
+          "price": "79 Kč",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "cat": "Pečivo",
+      "items": [
+        {
+          "name": "Croissant",
+          "price": "55 Kč",
+          "note": "máslový, ráno upečený",
+          "best": true
+        },
+        {
+          "name": "Pain au chocolat",
+          "price": "59 Kč",
+          "note": ""
+        },
+        {
+          "name": "Cinnamon roll",
+          "price": "75 Kč",
+          "note": ""
+        },
+        {
+          "name": "Kardamomový šnek",
+          "price": "69 Kč",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "cat": "Zákusky",
+      "items": [
+        {
+          "name": "Cheesecake",
+          "price": "89 Kč",
+          "note": "",
+          "best": true
+        },
+        {
+          "name": "Mrkvový dort",
+          "price": "85 Kč",
+          "note": ""
+        },
+        {
+          "name": "Bábovka od babičky",
+          "price": "49 Kč",
+          "note": ""
+        },
+        {
+          "name": "Sušenka s čokoládou",
+          "price": "39 Kč",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "cat": "Slané",
+      "items": [
+        {
+          "name": "Avocado toast",
+          "price": "139 Kč",
+          "note": "kváskový chléb, vejce"
+        },
+        {
+          "name": "Sendvič dne",
+          "price": "119 Kč",
+          "note": ""
+        },
+        {
+          "name": "Toust šunka & sýr",
+          "price": "99 Kč",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "events": [],
+  "faq": [
+    {
+      "q": "Kdy máte otevřeno?",
+      "a": "Otevřeno máme {otevreno}. Kdo přijde ráno, bere croissanty ještě teplé."
+    },
+    {
+      "q": "Kde vás najdu?",
+      "a": "Na Svatém Kopečku, přímo u baziliky Navštívení Panny Marie. Z Olomouce sem jede MHD č. 11, nebo to vezměte pěšky lesem."
+    },
+    {
+      "q": "Můžu se psem?",
+      "a": "Rozhodně. Vychovaní psi mají vstup volný a misku s vodou k tomu."
+    },
+    {
+      "q": "Dá se zaparkovat autem?",
+      "a": "Ano, centrální parkoviště na Kopečku je pár set metrů od kavárny. Přímo před vchodem neparkujte, ať máme hezký výhled."
+    },
+    {
+      "q": "Berete karty?",
+      "a": "Všechny běžné karty, telefony i hodinky. Hotovost samozřejmě taky neodmítneme."
+    },
+    {
+      "q": "Jak si zarezervuju stůl?",
+      "a": "Zavolejte nám – stůl vám podržíme. O víkendech bývá živo, tak radši dopředu."
+    },
+    {
+      "q": "Děláte rezervace na terase?",
+      "a": "Rezervujeme místa uvnitř. Terasa funguje podle počasí a volné kapacity na místě."
+    },
+    {
+      "q": "Je prostor bezbariérový?",
+      "a": "Ano, kočárky i vozíky k nám projedou bez překážek."
+    },
+    {
+      "q": "Prodáváte poukazy a kávu domů?",
+      "a": "Ano. Dárkový poukaz vystavíme na libovolnou částku a zrnka vám umeleme podle vaší metody. Stačí se zastavit na baru."
+    }
+  ],
+  "texts": {
+    "hero_title": "Dobrá káva a výhled na *Olomouc*.",
+    "hero_lede": "Výběrovka, čerstvě upečeno a nejlepší výhled na Hanou. *Přímo u baziliky na Svatém Kopečku.*",
+    "hero_cta": "Kde jsme",
+    "hero_cta2": "Nabídka & Ceny",
+    "nav_call": "Zavolat",
+    "hero_big1": "Nově otevřeno",
+    "hero_big2": "Kavárna Paulus",
+    "kde_title": "Konec cesty do kopce. *Tady jste správně.*",
+    "kde_text": "Ať už jdete pěšky lesem z Chválkovic, tlačíte kočárek do zoo, nebo míříte k bazilice. Zastavte se vydechnout.",
+    "kde_cta": "Navigovat na Mapy.cz",
+    "kde_cta2": "Kudy k nám z Olomouce",
+    "wave_divider": "ZVONICE · ŽIRAFY V ZOO · VÝŠLAP LESEM · POCTIVÉ KAFE · VÝHLED NA HANOU · ",
+    "intro_title": "Méně spěchu, víc *kofeinu*.",
+    "intro_text": "Vznikli jsme jednoduše proto, že Kopeček potřeboval místo, kde espresso neteče z automatu a pečivo nevidělo mrazák. Přijďte na rychlé ranní espresso na baru, nebo se zašijte na terase s výhledem, co neomrzí. Čas nikam neuteče.",
+    "trio_title": "Co u nás *dostanete*",
+    "card1_title": "Káva bez kompromisů",
+    "card1_text": "Žádné přepálené směsi. Točíme výběrová zrna z pražíren, kterým věříme. Vyladěné espresso, čistý filtr i flat white s mikropěnou.",
+    "card2_title": "Ráno upečeno, odpoledne pryč",
+    "card2_text": "Máslové croissanty a šneky pečeme každé ráno. Pravidlo je neúprosné: kdo dřív přijde, bere ještě teplé.",
+    "card3_title": "Slano do ruky",
+    "card3_text": "Křupavé sendviče, vydatné tousty a sezónní bistro dobroty. Z čerstvých surovin, připravené u nás.",
+    "menu_title": "Stálice na *baru*",
+    "menu_lede": "Sezónní zrna rotujeme, tohle najdete vždycky:",
+    "menu_note": "Ovesné a hrachové mléko máme (+12 Kč). Bezlepkové varianty hlaste obsluze, vymyslíme to.",
+    "book_title": "Menu",
+    "book_sub": "Kafe, co nespěchá. Pečivo, co nečeká.",
+    "book_open": "Nahlédni",
+    "book_toc": "Co máme",
+    "book_end": "Dobrou chuť!",
+    "book_close": "Zavřít menu",
+    "stay_title": "Vyhlídka, terasa a _klid od města_.",
+    "stay_text": "Sedněte si k oknu s pohledem na barokní fasádu baziliky, nebo ven na terasu s celou rovinou Hané jako na dlani.",
+    "offer_title": "Kousek *Kopečku* s _sebou_",
+    "offer1_title": "Dárkový poukaz",
+    "offer1_text": "Radost s vůní skořice a kávy. Ideální pozornost pro kohokoliv, kdo potřebuje vypnout hlavu. Vystavíme na libovolnou částku.",
+    "offer1_cta": "Vyřešit poukaz",
+    "offer2_title": "Balíček na doma",
+    "offer2_text": "Zrnka, která vám u nás zachutnala, vám rádi zabalíme do batohu. Meleme podle vaší oblíbené metody – od moka konvičky po aeropress.",
+    "offer2_cta": "Vybrat zrna na baru",
+    "offer3_title": "Komunita & Akce",
+    "offer3_text": "Degustace, cuppingy, občas večer na terase při západu slunce. To nejčerstvější dáváme na sítě.",
+    "offer3_cta": "Sledovat @kavarnapaulus",
+    "trip_title": "Spojte *kofein* s _výšlapem_.",
+    "trip_text": "Výlet na Kopeček je olomoucká klasika. Ať už plánujete program na celý den, nebo jen rychlý únik z města:",
+    "trip_hint": "Klepněte na místo v mapě",
+    "trip_home_title": "Kavárna Paulus",
+    "trip_home_pin": "Kavárna Paulus",
+    "trip_home_meta": "",
+    "trip_home_text": "Cíl každého výšlapu. Espresso na baru, croissant z rána a terasa s Hanou jako na dlani.",
+    "trip_tip1_title": "Bazilika Navštívení Panny Marie",
+    "trip_tip1_pin": "Bazilika",
+    "trip_tip1_meta": "",
+    "trip_tip1_text": "Monumentální baroko hned přes cestu. Ideální start nebo tečka prohlídky.",
+    "trip_tip2_title": "Zoo Olomouc",
+    "trip_tip2_pin": "Zoo Olomouc",
+    "trip_tip2_meta": "",
+    "trip_tip2_text": "Pár minut pěšky lesem. Po obíhání výběhů se káva a cukr budou hodit.",
+    "trip_tip3_title": "Západ slunce nad Hanou",
+    "trip_tip3_pin": "Západ slunce",
+    "trip_tip3_meta": "",
+    "trip_tip3_text": "Výhled přímo od nás. Když se Olomouc v dálce rozsvítí, nechce se odcházet.",
+    "trip_mhd_title": "Autobusem MHD č. 11",
+    "trip_mhd_pin": "MHD č. 11",
+    "trip_mhd_meta": "",
+    "trip_mhd_text": "Z hlavního nádraží jste nahoře za 15 minut. Zastávka je kousek od dveří.",
+    "trip_mhd_cta": "Najít spojení (IDOS)",
+    "trip_walk_title": "Pěšky nebo na gravelu",
+    "trip_walk_pin": "Pěšky / gravel",
+    "trip_walk_meta": "",
+    "trip_walk_text": "Poutní alejí nebo lesními traily. Zelená značka z Chválkovic prověří nohy, odměna čeká v cíli.",
+    "trip_walk_cta": "Otevřít trasu na Mapy.cz",
+    "gallery_title": "Jak to u nás *vypadá*",
+    "ig_title": "Co je u nás *nového*",
+    "ig_cta": "Sledovat na Instagramu",
+    "visit_title": "Najdete nás na _Svatém Kopečku_",
+    "visit_cta": "Navigovat na Mapy.cz",
+    "faq_title": "Než *dorazíte*",
+    "rez_title": "Těšíme se na vás.",
+    "rez_text": "Na espresso u baru, croissant z rána nebo jen vydechnout po výšlapu. Chcete jistotu místa? Zavolejte – stůl vám podržíme.",
+    "rez_call": "Zavolat a zamluvit stůl",
+    "rez_nav": "Navigovat na Mapy.cz",
+    "rez_card": "Dnes na Kopečku",
+    "footer_note": "Výběrová káva na Svatém Kopečku",
+    "footer_title": "Zastavte se na kopci.",
+    "menu_best": "Bestseller"
+  },
+  "photos": {
+    "g1": {
+      "id": "9256bf50",
+      "w": [
+        400,
+        600,
+        736
+      ],
+      "avif": true,
+      "alt": "Světlá kavárna s dlouhým stolem, křesly a barem v pozadí"
+    },
+    "g2": {
+      "id": "b916ef54",
+      "w": [
+        400,
+        600,
+        736
+      ],
+      "avif": true,
+      "alt": "Posezení v křeslech u okna, police s gramofonovými deskami"
+    },
+    "g3": {
+      "id": "a0f6729a",
+      "w": [
+        400,
+        600,
+        736
+      ],
+      "avif": true,
+      "alt": "Podsvícená police s gramofonovými deskami"
+    },
+    "ig1": {
+      "id": "3a8a17e8",
+      "w": [
+        240,
+        360,
+        480,
+        720
+      ],
+      "avif": true,
+      "alt": "Bar s nápisem Slow down a lampou"
+    },
+    "ig2": {
+      "id": "4ba20d21",
+      "w": [
+        240,
+        360,
+        480,
+        720
+      ],
+      "avif": true,
+      "alt": "Večerní bar s lampami a deskami"
+    },
+    "ig3": {
+      "id": "6294dc57",
+      "w": [
+        240,
+        360,
+        480,
+        720
+      ],
+      "avif": true,
+      "alt": "Gramofon a knihovna"
+    }
+  }
+}
